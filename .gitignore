@@ -1,2 +1,5 @@
 # Python cache
 __pycache__
+
+# Python virtual environment, all modules in requirements.txt
+venv
